@@ -1,0 +1,19 @@
+.Menubar-container {
+    position: absolute;
+    bottom: 0;
+    height: 13vh;
+    width: 100vh;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: #d9b0ff;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    bottom: 0;
+    border-radius: 10
+}
+.Button-style {
+    width: 100;
+    color: #7562a6;
+}
+
